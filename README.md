@@ -21,3 +21,12 @@ These are modules that you create yourself.
 These are modules that are not built into Python but can be installed using pip.
 # pip install requests
 
+
+ Module  	Purpose
+math	    Mathematical functions
+os	      Interacting with the operating system
+sys	      System-specific parameters and functions
+random	  Generating random numbers
+datetime	Working with dates and times
+json	    Handling JSON data
+requests	Making HTTP requests (requires installation)
