@@ -19,7 +19,7 @@ These are modules that you create yourself.
 
 => 🔹 External Modules (Third-party Libraries)
 These are modules that are not built into Python but can be installed using pip.
-# pip install requests
+
 
 
  Module  	Purpose
